@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="function">
+        <menu>
+            <item
+                android:id="@+id/nav_inport"
+                android:icon="@drawable/inport_option"
+                android:title="Import" />
+            <item
+                android:id="@+id/nav_save_new"
+                android:icon="@drawable/save_option"
+                android:title="@string/save_new" />
+        </menu>
+
+    </item>
+
+    <item android:title="others">
+        <menu>
+            <item
+                android:id="@+id/nav_exit"
+                android:icon="@drawable/exit_option"
+                android:title="Exit"/>
+        </menu>
+    </item>
+
+</menu>

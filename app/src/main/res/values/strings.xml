@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">3DFile</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="grid">Grid</string>
+    <string name="shape">Shape</string>
+    <string name="save">Save</string>
+    <string name="create_new">Create</string>
+    <string name="save_new">Save to ....</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="txt_create_btn">create new texture setting</string>
+
+</resources>
